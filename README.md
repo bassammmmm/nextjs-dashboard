@@ -1,3 +1,3 @@
-## Next.js App Router Course - Starter
+## Next.js App
 
 This is a Next.js Dashboard made for fun.
